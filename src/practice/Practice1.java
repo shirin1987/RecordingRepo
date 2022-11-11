@@ -1,13 +1,12 @@
 package practice;
 
-public class PracticeClass {
+public class Practice1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		System.out.println("this is inside shirinBranch");
 
 	}
-	public void remoteMethhod() {
-		// this is from remote Repo
 
-}
 }
